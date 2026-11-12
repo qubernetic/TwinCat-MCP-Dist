@@ -1,0 +1,8 @@
+{
+  "version": "0.2.0-beta.1",
+  "url": "https://github.com/qubernetic/TwinCat-MCP-Dist/releases/download/v0.2.0-beta.1/TwinCatMcp-0.2.0-beta.1.msi",
+  "sha256": "2ba62b9a5c51ae24f20eae82215c555f071177706336967d14a1d540dcad7ff2",
+  "minUpgradeFrom": "0.2.0-beta.1",
+  "releaseNotes": "https://github.com/qubernetic/TwinCat-MCP-Dist/releases/tag/v0.2.0-beta.1",
+  "published": "2026-11-12T10:11:14Z"
+}
